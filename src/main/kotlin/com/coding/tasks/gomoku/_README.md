@@ -1,0 +1,1 @@
+This is a recursive algorithm implementation to find if winning condition is met in [Gomoku game](https://en.wikipedia.org/wiki/Gomoku).
